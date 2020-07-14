@@ -1,0 +1,5 @@
+{ 
+  "name" : "Open Source Bot",
+  "token"  : "Your Token Here",
+  "prefix" : ":)"
+}
