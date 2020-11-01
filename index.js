@@ -15,7 +15,7 @@ client.on("message" () => {
   let message.content = message.content.substr(config.prefix.length);
   
   if(command == "test") {
-   message.channel.send("It's okey !").catch(err => {
+   message.channel.send("It's okey for me!").catch(err => {
     console.log(err)
    }); 
   }
